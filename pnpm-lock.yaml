@@ -625,17 +625,17 @@ snapshots:
       '@algolia/autocomplete-plugin-algolia-insights': 1.9.3(@algolia/client-search@4.24.0)(algoliasearch@4.24.0)(search-insights@2.14.0)
       '@algolia/autocomplete-shared': 1.9.3(@algolia/client-search@4.24.0)(algoliasearch@4.24.0)
     transitivePeerDependencies:
-  - '@algolia/client-search'
-  - algoliasearch
-  - search-insights
+      - '@algolia/client-search'
+      - algoliasearch
+      - search-insights
 
   '@algolia/autocomplete-plugin-algolia-insights@1.9.3(@algolia/client-search@4.24.0)(algoliasearch@4.24.0)(search-insights@2.14.0)':
     dependencies:
       '@algolia/autocomplete-shared': 1.9.3(@algolia/client-search@4.24.0)(algoliasearch@4.24.0)
       search-insights: 2.14.0
     transitivePeerDependencies:
-  - '@algolia/client-search'
-  - algoliasearch
+      - '@algolia/client-search'
+      - algoliasearch
 
   '@algolia/autocomplete-preset-algolia@1.9.3(@algolia/client-search@4.24.0)(algoliasearch@4.24.0)':
     dependencies:
@@ -745,11 +745,11 @@ snapshots:
       '@docsearch/react': 3.6.0(@algolia/client-search@4.24.0)(search-insights@2.14.0)
       preact: 10.22.0
     transitivePeerDependencies:
-  - '@algolia/client-search'
-  - '@types/react'
-  - react
-  - react-dom
-  - search-insights
+      - '@algolia/client-search'
+      - '@types/react'
+      - react
+      - react-dom
+      - search-insights
 
   '@docsearch/react@3.6.0(@algolia/client-search@4.24.0)(search-insights@2.14.0)':
     dependencies:
@@ -760,7 +760,7 @@ snapshots:
     optionalDependencies:
       search-insights: 2.14.0
     transitivePeerDependencies:
-  - '@algolia/client-search'
+      - '@algolia/client-search'
 
   '@esbuild/aix-ppc64@0.21.5':
     optional: true
@@ -984,8 +984,8 @@ snapshots:
       '@vueuse/shared': 10.11.0(vue@3.4.30)
       vue-demi: 0.14.8(vue@3.4.30)
     transitivePeerDependencies:
-  - '@vue/composition-api'
-  - vue
+      - '@vue/composition-api'
+      - vue
 
   '@vueuse/integrations@10.11.0(focus-trap@7.5.4)(vue@3.4.30)':
     dependencies:
@@ -995,8 +995,8 @@ snapshots:
     optionalDependencies:
       focus-trap: 7.5.4
     transitivePeerDependencies:
-  - '@vue/composition-api'
-  - vue
+      - '@vue/composition-api'
+      - vue
 
   '@vueuse/metadata@10.11.0': {}
 
@@ -1004,8 +1004,8 @@ snapshots:
     dependencies:
       vue-demi: 0.14.8(vue@3.4.30)
     transitivePeerDependencies:
-  - '@vue/composition-api'
-  - vue
+      - '@vue/composition-api'
+      - vue
 
   algoliasearch@4.24.0:
     dependencies:
@@ -1169,31 +1169,31 @@ snapshots:
     optionalDependencies:
       postcss: 8.4.38
     transitivePeerDependencies:
-  - '@algolia/client-search'
-  - '@types/node'
-  - '@types/react'
-  - '@vue/composition-api'
-  - async-validator
-  - axios
-  - change-case
-  - drauu
-  - fuse.js
-  - idb-keyval
-  - jwt-decode
-  - less
-  - lightningcss
-  - nprogress
-  - qrcode
-  - react
-  - react-dom
-  - sass
-  - search-insights
-  - sortablejs
-  - stylus
-  - sugarss
-  - terser
-  - typescript
-  - universal-cookie
+      - '@algolia/client-search'
+      - '@types/node'
+      - '@types/react'
+      - '@vue/composition-api'
+      - async-validator
+      - axios
+      - change-case
+      - drauu
+      - fuse.js
+      - idb-keyval
+      - jwt-decode
+      - less
+      - lightningcss
+      - nprogress
+      - qrcode
+      - react
+      - react-dom
+      - sass
+      - search-insights
+      - sortablejs
+      - stylus
+      - sugarss
+      - terser
+      - typescript
+      - universal-cookie
 
   vue-demi@0.14.8(vue@3.4.30):
     dependencies:
