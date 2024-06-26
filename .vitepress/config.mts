@@ -10,7 +10,7 @@ export default defineConfig({
   title: "1Panel Wiki",
   description: "1Panel三方wiki",
   head: [['link', { rel: 'icon', href: './favicon.png' }]],
-  sitemap: { hostname: 'https://example.com' }  /* 待填坑 */,
+  sitemap: { hostname: 'https://www.1panel.wiki/sitemap.xml' },
   themeConfig: {
     logo: '/favicon.png',
     nav: nav(),
@@ -19,11 +19,11 @@ export default defineConfig({
       '/thirdStores/': { base: '/thirdStores/', items: sidebarThirdStores() }
     },
     socialLinks: [
-      { icon: 'github', link: 'https://example.com' }  /* 待填坑 */
+      { icon: 'github', link: 'https://github.com/Anyexyz/1panel-wiki' }
     ],
-    footer: {/* 
+    footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2019-present Evan You' */
+      copyright: 'Copyright © 2024 1Panel Wiki'
     },
     docFooter: {
       prev: '上一页',
