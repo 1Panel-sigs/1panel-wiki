@@ -2,7 +2,7 @@ import { defineConfig, type DefaultTheme } from 'vitepress'
 
 export default defineConfig({
   lang: 'zh-CN',
-  base: '/wiki/',
+  base: '/',
   srcExclude: ['**/README', '**/TODO'],
   assetsDir: 'static',
   srcDir: 'src',
