@@ -55,9 +55,10 @@ export default defineConfig({
 function nav(): DefaultTheme.NavItem[] {
   return [
     { text: '官方文档', link: '/officialDoc/' },
+    { text: '常见问答', link: 'faq' },
     { text: '第三方应用商店', link: '/thirdStores/' },
     { text: '服务状态监控', link: 'https://status.1panel.top/' },
-    { text: '声明', link: 'https://status.1panel.top/' },  //待填坑
+    { text: '声明', link: 'declaration' },  //待填坑
   ]
 }
 
