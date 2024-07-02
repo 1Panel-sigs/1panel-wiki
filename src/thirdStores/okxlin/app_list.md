@@ -2,6 +2,8 @@
 aside: false
 ---
 
+# 应用列表
+
 |应用|图标|描述|类型|
 |:---:|:---:|:---:|:---:|
 |[小雅 Alist (xiaoya)](http://alist.xiaoya.pro)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/xiaoya/logo.png" alt="logo" width="50px">|基于 Alist 的网盘聚合站|工具|
