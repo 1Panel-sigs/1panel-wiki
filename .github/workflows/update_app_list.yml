@@ -30,7 +30,13 @@ jobs:
           cd Script
           python update_akxlin_apps_list.py
 
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --exit-code src/thirdStores/okxlin/app_list.md || echo "has_changes=true" >> $GITHUB_ENV
+
       - name: Commit changes
+        if: env.has_changes == 'true'
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
@@ -38,6 +44,7 @@ jobs:
           git commit -m 'Update app_list.md'
 
       - name: Push changes
+        if: env.has_changes == 'true'
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
