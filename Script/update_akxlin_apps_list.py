@@ -30,5 +30,5 @@ def main():
 
 if __name__ == '__main__':
     os.system('git clone https://github.com/okxlin/appstore.git')
-    os.system('git clone git@github.com:1Panel-sigs/1panel-wiki.git')
+    os.system('git clone https://github.com/1Panel-sigs/1panel-wiki.git')
     main()
