@@ -24,7 +24,7 @@ def main():
             data_yml = os.path.join(app_dir, 'data.yml')
             if os.path.exists(data_yml):
                 app_data = read_data_yml(data_yml)
-                app_data['logo'] = f'https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/{app_dir}/logo.png'
+                app_data['logo'] = f'https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/{app_dir.replace("appstore/","")}/logo.png'
                 data.append(app_data)
     write_data_to_md(data, md_file)
 
