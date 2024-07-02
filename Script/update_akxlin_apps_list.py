@@ -29,5 +29,5 @@ def main():
     write_data_to_md(data, md_file)
 
 if __name__ == '__main__':
-    os.system('git clone git@github.com:okxlin/appstore.git')
+    os.system('git clone https://github.com/okxlin/appstore.git')
     main()
