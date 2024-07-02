@@ -207,16 +207,13 @@ function sidebarDocs(): DefaultTheme.SidebarItem[] {
 function sidebarThirdStores(): DefaultTheme.SidebarItem[] {
   return [
     {
-      text: '三方商店介绍',
-      link: '/index'
-    },
-    {
       text: 'okxlin/appstore',
-      link: '/okxlin/index',
+      base: '/thirdStores/okxlin/',
+      link: 'index',
       collapsed: false,
       items: [
-        { text: '应用列表', link: '/okxlin/app_list' },
-        { text: '应用详情', link: '/okxlin/app_detail' }
+        { text: '应用列表', link: 'app_list' },
+        { text: '更新日志', link: 'changelog' }
       ]
     },
   ]
