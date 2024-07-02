@@ -105,7 +105,3 @@ docker-compose up -d
 # 查看连接所需密钥
 cat ./data/hbbs/id_ed25519.pub
 ```
-
-## 4. 应用一览图
-
-![](https://github.com/okxlin/appstore/raw/localApps/docs/app-list.png)

@@ -209,9 +209,9 @@ function sidebarThirdStores(): DefaultTheme.SidebarItem[] {
     {
       text: 'okxlin/appstore',
       base: '/thirdStores/okxlin/',
-      link: 'index',
       collapsed: false,
       items: [
+        { text: '仓库介绍', link: 'introduction' },
         { text: '应用列表', link: 'app_list' },
         { text: '更新日志', link: 'changelog' }
       ]
