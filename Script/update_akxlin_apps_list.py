@@ -9,6 +9,7 @@ def read_data_yml(file_path):
 def write_data_to_md(data, md_file):
     with open(md_file, 'w') as f:
         f.write('---\naside: false\n---\n\n')
+        f.write('# 应用列表\n\n')
         f.write('|应用|图标|描述|类型|\n')
         f.write('|:---:|:---:|:---:|:---:|\n')
         for app in data:
