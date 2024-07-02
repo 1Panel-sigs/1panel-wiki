@@ -16,7 +16,7 @@ def write_data_to_md(data, md_file):
 
 def main():
     apps_dir = 'appstore/apps'
-    md_file = 'src/thirdStores/okxlin/app_list.md'
+    md_file = '1Panel-sigs/1panel-wiki/src/thirdStores/okxlin/app_list.md'
     data = []
     for app in os.listdir(apps_dir):
         app_dir = os.path.join(apps_dir, app)
@@ -30,4 +30,5 @@ def main():
 
 if __name__ == '__main__':
     os.system('git clone https://github.com/okxlin/appstore.git')
+    os.system('git chone git@github.com:1Panel-sigs/1panel-wiki.git')
     main()
