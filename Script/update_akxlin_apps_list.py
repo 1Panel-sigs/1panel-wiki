@@ -10,13 +10,13 @@ def write_data_to_md(data, md_file):
     with open(md_file, 'w') as f:
         f.write('---\naside: false\n---\n\n')
         f.write('|应用|图标|描述|类型|\n')
-        f.write('|:---:|:---:|:---:|:---:|:---:|\n')
+        f.write('|:---:|:---:|:---:|:---:|\n')
         for app in data:
             f.write(f'|[{app.get("name", "")}]({app.get("additionalProperties", {}).get("website", "")})|<img src="{app.get("logo", "")}" alt="logo" width="50px">|{app.get("description", "")}|{app.get("type", "")}|\n')
 
 def main():
     apps_dir = 'appstore/apps'
-    md_file = '1Panel-sigs/1panel-wiki/src/thirdStores/okxlin/app_list.md'
+    md_file = '1panel-wiki/src/thirdStores/okxlin/app_list.md'
     data = []
     for app in os.listdir(apps_dir):
         app_dir = os.path.join(apps_dir, app)
