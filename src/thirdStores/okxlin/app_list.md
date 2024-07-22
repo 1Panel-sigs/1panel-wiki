@@ -255,7 +255,7 @@ aside: false
 |[Verdaccio](https://verdaccio.org/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/verdaccio/logo.png" alt="logo" width="50px">|一个基于 Node.js 的轻量级私有仓库||
 |[ModStartCMS](https://modstart.com)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/modstartcms/logo.png" alt="logo" width="50px">|开源企业建站系统|建站|
 |[Act runner](https://gitea.com/gitea/act_runner)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/act_runner/logo.png" alt="logo" width="50px">|Gitea Actions 的 Runner||
-|[迅雷](https://www.xunlei.com)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/xunlei/logo.png" alt="logo" width="50px">|提取自群晖平台的迅雷下载套件|工具|
+|[迅雷](https://www.xunlei.com)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/xunlei/logo.png" alt="logo" width="50px">|提取自群晖平台的迅雷下载套件||
 |[MySQL](https://www.mysql.com)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/mysql/logo.png" alt="logo" width="50px">|MySQL 开源关系型数据库|数据库|
 |[ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/chatgpt-next-web/logo.png" alt="logo" width="50px">|一键免费部署你的跨平台私人 ChatGPT 应用||
 |[TwoNav](https://hub.docker.com/r/tznb/twonav)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/twonav/logo.png" alt="logo" width="50px">|一款开源免费的书签（导航）管理程序|建站|
