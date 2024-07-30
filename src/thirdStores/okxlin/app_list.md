@@ -30,6 +30,7 @@ aside: false
 |[Rathole](https://github.com/rapiz1/rathole)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/rathole/logo.png" alt="logo" width="50px">|安全、稳定、高性能的内网穿透工具||
 |[Domain Admin](https://github.com/mouday/domain-admin)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/domain-admin/logo.png" alt="logo" width="50px">|域名和SSL证书监测平台|工具|
 |[RustDesk](https://rustdesk.com/zh/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/rustdesk/logo.png" alt="logo" width="50px">|RustDesk是一款开源的远程桌面软件|工具|
+|[Mattermost](https://mattermost.com)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/mattermost/logo.png" alt="logo" width="50px">|开源团队协作平台||
 |[Zabbix-Agent](https://www.zabbix.com/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/zabbix-agent/logo.png" alt="logo" width="50px">|实时监控 IT 组件和服务(监控端)|工具|
 |[RSS Reader](https://rss.lass.cc)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/rss-reader/logo.png" alt="logo" width="50px">|一个极简的 RSS 在线浏览工具|工具|
 |[Zdir](https://soft.xiaoz.org)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/zdir/logo.png" alt="logo" width="50px">|轻量级目录列表程序||
