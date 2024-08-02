@@ -60,7 +60,7 @@ aside: false
 |[ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/chatgpt-next-web/logo.png" alt="logo" width="50px">|一键免费部署你的跨平台私人 ChatGPT 应用||
 |[SSCMS 内容管理系统](https://sscms.com)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/sscms/logo.png" alt="logo" width="50px">|开源免费、企业级、可商用的CMS内容管理系统||
 |[SubLink](https://github.com/jaaksii/sublink)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/sublink/logo.png" alt="logo" width="50px">|节点转换成订阅|工具|
-|[南墙 Web 应用防火墙(uuWAF)](https://waf.uusec.com)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/uuwaf/logo.png" alt="logo" width="50px">|免费、高性能、高扩展顶级Web应用和API安全防护产品|工具|
+|[uuWAF](https://waf.uusec.com/#/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/uuwaf/logo.png" alt="logo" width="50px">|南墙 WEB 应用防火墙||
 |[Alist-TVBox](https://github.com/power721/alist-tvbox)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/alist-tvbox/logo.png" alt="logo" width="50px">|AList 代理，支持 xiaoya 版 AList 界面管理|工具|
 |[DbGate](https://dbgate.org)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/dbgate/logo.png" alt="logo" width="50px">|跨平台的数据库管理器|开发工具|
 |[Hexo](https://hexo.io/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/hexo/logo.png" alt="logo" width="50px">|快速、简洁且高效的博客框架|建站|
@@ -113,6 +113,7 @@ aside: false
 |[Lucky](https://lucky666.cn)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/lucky/logo.png" alt="logo" width="50px">|软硬路由公网神器|工具|
 |[aaPanel](https://www.aapanel.com/new/index.html)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/aaPanel/logo.png" alt="logo" width="50px">|宝塔面板国际版，开源的Linux面板|工具|
 |[SmartDNS](https://pymumu.github.io/smartdns)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/smartdns/logo.png" alt="logo" width="50px">|一个运行在本地的 DNS 服务器|工具|
+|[WolGoWeb](https://github.com/xiaoxinpro/WolGoWeb)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/wol-go-web/logo.png" alt="logo" width="50px">|网络唤醒工具||
 |[Halo](https://halo.run/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/halo/logo.png" alt="logo" width="50px">|强大易用的开源建站工具|建站|
 |[OneDev](https://onedev.io)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/onedev/logo.png" alt="logo" width="50px">|具有 CI/CD 和 Kanban 的自托管 Git 服务器||
 |[Emby Server](https://emby.media/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/embyserver/logo.png" alt="logo" width="50px">|一个免费的个人媒体服务器||
@@ -175,6 +176,7 @@ aside: false
 |[LibreOffice](https://www.libreoffice.org)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/libreoffice/logo.png" alt="logo" width="50px">|一款功能强大的办公软件|工具|
 |[ALS](https://github.com/wikihost-opensource/als)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/als/logo.png" alt="logo" width="50px">|Another Looking-glass Server，测速服务端|工具|
 |[Calibre-Web](https://calibre-ebook.com)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/calibre-web/logo.png" alt="logo" width="50px">|用于浏览、阅读和下载存储在 Calibre 数据库中的电子书的 Web 应用程序||
+|[Docker Hoster](https://hub.docker.com/r/solipsist01/docker-hoster)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/docker-hoster/logo.png" alt="logo" width="50px">|在宿主机 hosts 上解析容器名||
 |[WeekToDo](https://weektodo.me)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/weektodo/logo.png" alt="logo" width="50px">|一款免费的极简主义每周计划应用程序，专注于隐私|工具|
 |[Maddy Mail Server](https://maddy.email)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/maddy-mail/logo.png" alt="logo" width="50px">|可组合的多合一邮件服务器|邮件服务|
 |[阅读3服务器版](https://github.com/hectorqin/reader)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/reader/logo.png" alt="logo" width="50px">|阅读3服务器版，不需要手机|工具|
@@ -195,7 +197,9 @@ aside: false
 |[mTab](https://www.mtab.cc)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/mtab/logo.png" alt="logo" width="50px">|书签导航程序||
 |[ModStartCMS](https://modstart.com)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/modstartcms/logo.png" alt="logo" width="50px">|开源企业建站系统|建站|
 |[Audiobookshelf](https://www.audiobookshelf.org/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/audiobookshelf/logo.png" alt="logo" width="50px">|一个自托管有声读物和播客服务器|工具|
+|[Duplicati](https://www.duplicati.com)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/duplicati/logo.png" alt="logo" width="50px">|在云存储服务上安全地存储加密备份||
 |[Immich](https://immich.app)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/immich/logo.png" alt="logo" width="50px">|高性能的自托管照片和视频备份方案||
+|[2FAuth](https://docs.2fauth.app)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/2fauth/logo.png" alt="logo" width="50px">|开源双因素认证管理器||
 |[Microsoft 365 E5 Renew X](https://github.com/hongyonghan/Docker_Microsoft365_E5_Renew_X)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/ms365-e5-renew-x/logo.png" alt="logo" width="50px">|Docker 版本的 Microsoft 365 E5 调用 API 续订服务|工具|
 |[Gotify](https://gotify.net)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/gotify/logo.png" alt="logo" width="50px">|自托管通知服务器||
 |[GoWebDAV](https://github.com/117503445/GoWebDAV)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/gowebdav/logo.png" alt="logo" width="50px">|轻量易用的 WebDAV 服务器||
