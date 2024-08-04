@@ -89,6 +89,7 @@ aside: false
 |[aaPanel](https://www.aapanel.com/new/index.html)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/aaPanel/logo.png" alt="logo" width="50px">|宝塔面板国际版，开源的Linux面板|工具|
 |[dashdot](https://getdashdot.com)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/dashdot/logo.png" alt="logo" width="50px">|一个简单、现代的服务器仪表板|工具|
 |[Matomo](https://matomo.org/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/matomo/logo.png" alt="logo" width="50px">|开源的网站分析应用程序|工具|
+|[RedisInsight](https://redis.com/redis-enterprise/redis-insight/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/redisinsight/logo.png" alt="logo" width="50px">|Redis 图形管理工具||
 |[Zabbix-Agent](https://www.zabbix.com/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/zabbix-agent/logo.png" alt="logo" width="50px">|实时监控 IT 组件和服务(监控端)|工具|
 |[DashMachine](https://github.com/rmountjoy92/DashMachine)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/dashmachine/logo.png" alt="logo" width="50px">|一个具有有趣功能的 Web 应用程序书签仪表板|工具|
 |[Remmina](https://remmina.org)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/remmina/logo.png" alt="logo" width="50px">|远程桌面客户端|工具|
@@ -110,6 +111,7 @@ aside: false
 |[Changedetection.io](https://changedetection.io/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/changedetectionio/logo.png" alt="logo" width="50px">|网站更改检测、补货监控和通知。|工具|
 |[YOURLS](https://yourls.org/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/yourls/logo.png" alt="logo" width="50px">|PHP驱动的标准自托管URL缩短器|工具|
 |[Answer](https://answer.dev/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/answer/logo.png" alt="logo" width="50px">|一款适合任何团队的问答平台软件|建站|
+|[BililiveRecorder](https://rec.danmuji.org)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/bililive-recorder/logo.png" alt="logo" width="50px">|哔哩哔哩直播录制工具||
 |[2FAuth](https://docs.2fauth.app)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/2fauth/logo.png" alt="logo" width="50px">|开源双因素认证管理器||
 |[Rathole](https://github.com/rapiz1/rathole)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/rathole/logo.png" alt="logo" width="50px">|安全、稳定、高性能的内网穿透工具||
 |[AliyunDrive WebDAV](https://github.com/messense/aliyundrive-webdav)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/aliyundrive-webdav/logo.png" alt="logo" width="50px">|阿里云盘 WebDAV 服务||
@@ -147,6 +149,7 @@ aside: false
 |[Meting-API](https://github.com/xizeyoupan/Meting-API)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/meting-api/logo.png" alt="logo" width="50px">|开源的音乐 API 服务||
 |[Gotify](https://gotify.net)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/gotify/logo.png" alt="logo" width="50px">|自托管通知服务器||
 |[uuWAF](https://waf.uusec.com/#/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/uuwaf/logo.png" alt="logo" width="50px">|南墙 WEB 应用防火墙||
+|[Sunshine](http://app.lizardbyte.dev/Sunshine)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/sunshine/logo.png" alt="logo" width="50px">|开源游戏串流服务||
 |[Headscale](https://headscale.net)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/headscale/logo.png" alt="logo" width="50px">|Tailscale 控制服务器的开源自托管实现|工具|
 |[ModStartBlog](https://modstart.com)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/modstartblog/logo.png" alt="logo" width="50px">|开源个人博客系统|建站|
 |[Bitwarden](https://bitwarden.com/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/bitwarden/logo.png" alt="logo" width="50px">|一个开源的密码管理服务|工具|
@@ -193,6 +196,7 @@ aside: false
 |[Nging](https://github.com/admpub/nging)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/nging/logo.png" alt="logo" width="50px">|Go 语言 Web 管理面板||
 |[Transmission](https://transmissionbt.com/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/transmission/logo.png" alt="logo" width="50px">|一个快速，简单，免费的BitTorrent客户端|工具|
 |[Port-Forward-Server](https://gitee.com/tavenli/port-forward)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/port-forward-server/logo.png" alt="logo" width="50px">|Go 语言开发的端口转发工具 (服务端)|工具|
+|[Neko](https://neko.m1k1o.net)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/neko/logo.png" alt="logo" width="50px">|自托管虚拟浏览器||
 |[OpenResume](https://www.open-resume.com)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/openresume/logo.png" alt="logo" width="50px">|一个功能强大的开源简历生成器和简历解析器|工具|
 |[AdGuardHome](https://hub.docker.com/r/adguard/adguardhome)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/adguardhome/logo.png" alt="logo" width="50px">|自由且开源的，功能强大的网络广告和跟踪器屏蔽DNS服务器||
 |[Focalboard](https://www.focalboard.com/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/focalboard/logo.png" alt="logo" width="50px">|Trello，Notion 和 Asana 的开源自托管替代方案||
@@ -241,6 +245,7 @@ aside: false
 |[frpc-frp 客户端](https://github.com/fatedier/frp)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/frpc/logo.png" alt="logo" width="50px">|frp 是一种反向代理工具，常用于内网穿透(客户端)|工具|
 |[Joplin Server](https://joplinapp.org/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/joplin-server/logo.png" alt="logo" width="50px">|一个开源的记事本应用程序|工具|
 |[Natter](https://github.com/MikeWang000000/Natter)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/natter/logo.png" alt="logo" width="50px">|Fullcone NAT 端口打洞工具||
+|[CloudDrive](https://www.clouddrive2.com)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/clouddrive/logo.png" alt="logo" width="50px">|一个强大的多云盘管理工具||
 |[Gopeed](https://gopeed.com)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/gopeed/logo.png" alt="logo" width="50px">|一款现代化的下载器|工具|
 |[小雅 Alist (xiaoya)](http://alist.xiaoya.pro)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/xiaoya/logo.png" alt="logo" width="50px">|基于 Alist 的网盘聚合站|工具|
 |[Mattermost](https://mattermost.com)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/mattermost/logo.png" alt="logo" width="50px">|开源团队协作平台||
@@ -272,5 +277,6 @@ aside: false
 |[MyIP](https://ipcheck.ing)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/myip/logo.png" alt="logo" width="50px">|一个更好的 IP 工具箱|工具|
 |[code-server](https://coder.com/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/code-server/logo.png" alt="logo" width="50px">|在任何地方的任何计算机上运行 VS Code 并在浏览器中访问它||
 |[OpenTDP](https://docs.opentdp.org)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/opentdp/logo.png" alt="logo" width="50px">|可以跨平台部署的云资源管理面板||
+|[Minichat](https://minichat.seeyou.me)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/minichat/logo.png" alt="logo" width="50px">|极简聊天应用||
 |[迅雷](https://www.xunlei.com)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/xunlei/logo.png" alt="logo" width="50px">|提取自群晖平台的迅雷下载套件||
 |[ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/chinesesubfinder/logo.png" alt="logo" width="50px">|自动化中文字幕下载|工具|
