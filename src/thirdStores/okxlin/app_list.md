@@ -207,7 +207,7 @@ aside: false
 |[Warp-Docker](https://hub.docker.com/r/caomingjun/warp)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/warp-docker/logo.png" alt="logo" width="50px">|在 Docker 中运行 Cloudflare WARP||
 |[Blossom](https://www.wangyunf.com/blossom-doc/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/blossom/logo.png" alt="logo" width="50px">|一个支持私有部署的云端双链笔记软件|工具|
 |[Discuz!](https://www.discuz.vip/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/discuz/logo.png" alt="logo" width="50px">|开源社交建站系统|建站|
-|[Verdaccio](https://verdaccio.org/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/verdaccio/logo.png" alt="logo" width="50px">|一个基于 Node.js 的轻量级私有仓库||
+|[Verdaccio](https://verdaccio.org/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/verdaccio/logo.png" alt="logo" width="50px">|本地私有 NPM 注册中心||
 |[ZFile](https://www.zfile.vip/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/zfile/logo.png" alt="logo" width="50px">|基于 Java 的在线网盘程序|工具|
 |[YesPlayMusic](https://music.qier222.com/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/yesplaymusic/logo.png" alt="logo" width="50px">|一款高颜值的第三方网易云播放器||
 |[cloudflared](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/cloudflared/logo.png" alt="logo" width="50px">|Cloudflare Tunnel 客户端||
