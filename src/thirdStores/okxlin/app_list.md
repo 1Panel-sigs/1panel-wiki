@@ -61,6 +61,7 @@ aside: false
 |[CloudBeaver](https://dbeaver.com/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/cloudbeaver/logo.png" alt="logo" width="50px">|云数据库管理器|工具|
 |[JSON Hero](https://jsonhero.io)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/jsonhero/logo.png" alt="logo" width="50px">|使阅读和理解 JSON 文件变得简单|工具|
 |[Alist-TVBox](https://github.com/power721/alist-tvbox)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/alist-tvbox/logo.png" alt="logo" width="50px">|AList 代理，支持 xiaoya 版 AList 界面管理|工具|
+|[IYUUPlus](http://doc.iyuu.cn)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/iyuuplus/logo.png" alt="logo" width="50px">|自动辅种工具||
 |[ProxyPool](https://proxy-pool.readthedocs.io)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/proxy_pool/logo.png" alt="logo" width="50px">|爬虫代理 IP 池||
 |[nginxWebUI](https://www.nginxwebui.cn)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/nginxwebui/logo.png" alt="logo" width="50px">|Nginx 网页管理工具|Web 服务器|
 |[Lucky](https://lucky666.cn)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/lucky/logo.png" alt="logo" width="50px">|软硬路由公网神器|工具|
