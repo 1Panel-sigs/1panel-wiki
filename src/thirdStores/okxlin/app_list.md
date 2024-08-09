@@ -120,6 +120,7 @@ aside: false
 |[Amilys Emby Server](https://hub.docker.com/r/amilys/embyserver)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/emby-amilys/logo.png" alt="logo" width="50px">|一个免费的个人媒体服务器 (开心版)||
 |[uuWAF](https://waf.uusec.com/#/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/uuwaf/logo.png" alt="logo" width="50px">|南墙 WEB 应用防火墙||
 |[mTab](https://www.mtab.cc)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/mtab/logo.png" alt="logo" width="50px">|书签导航程序||
+|[Glance](https://github.com/glanceapp/glance)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/glance/logo.png" alt="logo" width="50px">|一个自托管仪表板||
 |[Obsidian](https://obsidian.md)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/obsidian/logo.png" alt="logo" width="50px">|一个使用Markdown语法的闭源笔记软件|工具|
 |[Synapse-admin](https://hub.docker.com/r/awesometechnologies/synapse-admin)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/synapse-admin/logo.png" alt="logo" width="50px">|Synapse 管理界面|工具|
 |[Vue Color Avatar](https://vue-color-avatar.leoku.dev)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/vue-color-avatar/logo.png" alt="logo" width="50px">|一个纯前端实现的头像生成网站||
@@ -265,6 +266,7 @@ aside: false
 |[AdGuardHome](https://hub.docker.com/r/adguard/adguardhome)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/adguardhome/logo.png" alt="logo" width="50px">|自由且开源的，功能强大的网络广告和跟踪器屏蔽DNS服务器||
 |[SyncClipboard-Server](https://github.com/Jeric-X/SyncClipboard)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/syncclipboard-server/logo.png" alt="logo" width="50px">|跨平台剪贴板同步方案 (服务端)||
 |[小雅 Alist (xiaoya)](http://alist.xiaoya.pro)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/xiaoya/logo.png" alt="logo" width="50px">|基于 Alist 的网盘聚合站|工具|
+|[Medama](https://oss.medama.io)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/medama/logo.png" alt="logo" width="50px">|自托管、注重隐私的网站分析||
 |[RedisInsight](https://redis.com/redis-enterprise/redis-insight/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/redisinsight/logo.png" alt="logo" width="50px">|Redis 图形管理工具||
 |[Nextcloud](https://nextcloud.com/)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/nextcloud/logo.png" alt="logo" width="50px">|Nextcloud 服务器，所有数据的安全家园|建站|
 |[Simple mind map](https://wanglin2.github.io/mind-map)|<img src="https://cdn.jsdelivr.net/gh/okxlin/appstore@localApps/apps/mind-map/logo.png" alt="logo" width="50px">|一个还算强大的 Web 思维导图|工具|
